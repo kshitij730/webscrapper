@@ -13,7 +13,7 @@ import logging
 # In[89]:
 
 
-flipkart_url = "https://www.flipkart.com/search?q=" + "redmi"
+flipkart_url = "https://www.flipkart.com/search?q=" + "redmi" """here in place of redmi place name of the product you want to search and extract the comments"""
 
 
 # In[90]:
